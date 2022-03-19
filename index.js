@@ -15,8 +15,6 @@ const newTask = (title, description) => {
       } else {
         task.complete = true;
       }
-
-      
     }
   };
 
